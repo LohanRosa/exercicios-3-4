@@ -1,1 +1,1 @@
-# exercicios-3-4
+# exercicios-estatistica
